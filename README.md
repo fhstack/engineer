@@ -5,7 +5,12 @@
 </details>
 <details>
   <summary>计算机网络</summary>
-  <details>
-    <summary>TCP/IP五层模型</summary>
-  </details>
+    <details>
+      <summary>TCP/IP五层模型</summary>
+      <img src="img/TCP:IP.png"  alt="TCP:IP" />
+    </details>
+    <details>
+      <summary>数据链路层</summary>
+      <img src="img/datalinklayer.png"  alt="datalinklayer" />
+    </details>
 </details>
