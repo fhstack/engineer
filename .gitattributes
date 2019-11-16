@@ -7,3 +7,5 @@ img/datalinklayer.png filter=lfs diff=lfs merge=lfs -text
 img/TCP:IP.png filter=lfs diff=lfs merge=lfs -text
 img/internetlayer.png filter=lfs diff=lfs merge=lfs -text
 net/internetlayer.xmind filter=lfs diff=lfs merge=lfs -text
+img/foc.png filter=lfs diff=lfs merge=lfs -text
+foc/foc.xmind filter=lfs diff=lfs merge=lfs -text
