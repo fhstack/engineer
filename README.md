@@ -18,3 +18,7 @@
       <img src="img/internetlayer.png"  alt="internetlayer" />
     </details>
 </details>
+<details>
+  <summary>编译原理</summary>
+  <img src="img/foc.png"  alt="foc" />
+</details>
