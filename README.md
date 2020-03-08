@@ -17,6 +17,10 @@
       <summary>网络层</summary>
       <img src="img/internetlayer.png"  alt="internetlayer" />
     </details>
+    <details>
+      <summary>传输层</summary>
+      <img src="img/transitlayer.png"  alt="transitlayer" />
+    </details>
 </details>
 <details>
   <summary>编译原理</summary>
