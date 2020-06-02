@@ -26,4 +26,19 @@
   <summary>编译原理</summary>
   <img src="img/foc.png"  alt="foc" />
 </details>
+<details>
+  <summary>操作系统</summary>
+</details>
+<details>
+  <summary>分布一致性</summary>
+</details>
+<details>
+  <summary>关系数据库</summary>
+</details>
+<details>
+  <summary>非关系性数据库</summary>
+</details>
+<details>
+  <summary>ES</summary>
+</details>
 etc...
